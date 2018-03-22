@@ -1,6 +1,5 @@
 .DS_Store
 
-lib
 coverage
 dist
 test.js
